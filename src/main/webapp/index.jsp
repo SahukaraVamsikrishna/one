@@ -7,7 +7,7 @@
 	<h2 style="color: green; font-size: 40px;" align="center">THIS IS OUR DEPLOYMENT</h2>
 	<h2 style="color: black; font-size: 40px;" align="center">WE INTEGRATED MAVEN JENKINS WITH APP SERVER</h2>
 	<h2 style="color: blue; font-size: 40px;" align="center">THIS IS CI/CD</h2>
-        <h2 style="color: blue; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h2>
+        <h2 style="color: yellow; font-size: 40px;" align="center">THIS IS APP DEPLOYMENT USING TOMCAT</h2>
 	
 	
 	
