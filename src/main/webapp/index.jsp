@@ -1,6 +1,6 @@
 <html>
 <head>
-	
+	<title>DevOps</title>
 </head>
 <body>
 	<h1 style="color: vred; font-size: 40px;" align="center">HEY WE DEPLOYED OUR APP USING JENKINS</h1>
